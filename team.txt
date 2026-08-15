@@ -1,6 +1,6 @@
 Equipo de Desarrollo 
 Integrantes: 
-1. Cristian Rodriguez 
+1. Cristian Rodriguez bakecnt
 2. Oscar Suarez 
 Proyecto: 
 Aplicacion de perfiles del equipo 
