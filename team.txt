@@ -1,6 +1,6 @@
 Equipo de Desarrollo 
 Integrantes: 
 1. Cristian Rodriguez 
-2. Oscar Suarez 
+2. Oscar david Suarez -- frontend
 Proyecto: 
 Aplicacion de perfiles del equipo 
